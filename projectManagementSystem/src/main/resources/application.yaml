@@ -20,5 +20,5 @@ smtp:
   host: smtp.gmail.com
   port: 587
   username: krishnendusamanta762@gmail.com
-  password: sszw xkfj ezdy qbzx
+  password: *****
   tls: true
